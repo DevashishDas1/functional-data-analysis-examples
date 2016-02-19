@@ -1,5 +1,5 @@
 # author - Devashish Das 
-# heavily borrowed thing from 
+# heavily borrowed things from 
 # http://faculty.bscb.cornell.edu/~hooker/ShortCourseLab.R
 #------------------------------
 
